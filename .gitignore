@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Firebase / Google credentials - JANGAN DI-COMMIT!
+*firebase-adminsdk*.json
+serviceAccountKey.json
+google-services.json
+*.json
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

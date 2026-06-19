@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337718625016",
+    "project_id": "absensy-f456e",
+    "storage_bucket": "absensy-f456e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337718625016:android:9f481c8c126363dc1d310d",
+        "android_client_info": {
+          "package_name": "com.daffa.absensy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_e03THDf-BJfk9qmh2iRFuND2x_4IcqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
